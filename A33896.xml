@@ -1,0 +1,550 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Jewish calendar explained, or, Observations on the ancient Hebrew account of the year, months, and festivals used by the patriarchs and mentioned in Holy Scripture wherein is shown the order, names, and significations of their moneths, the reasons for first instituting their several feasts, as Passover, Tabernacles &amp;c., with the exact days whereon they were celebrated and what they were to shadow forth under the Gospel / published for assisting weak capacities better to understand what they read in Holy Writ ... by Hen. Care.</title>
+            <author>Care, Henry, 1646-1688.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 60 KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A33896</idno>
+            <idno type="STC">Wing C524</idno>
+            <idno type="STC">ESTC R33304</idno>
+            <idno type="EEBO-CITATION">13136365</idno>
+            <idno type="OCLC">ocm 13136365</idno>
+            <idno type="VID">97937</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A33896)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97937)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1546:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Jewish calendar explained, or, Observations on the ancient Hebrew account of the year, months, and festivals used by the patriarchs and mentioned in Holy Scripture wherein is shown the order, names, and significations of their moneths, the reasons for first instituting their several feasts, as Passover, Tabernacles &amp;c., with the exact days whereon they were celebrated and what they were to shadow forth under the Gospel / published for assisting weak capacities better to understand what they read in Holy Writ ... by Hen. Care.</title>
+                  <author>Care, Henry, 1646-1688.</author>
+               </titleStmt>
+               <extent>[4], 43 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. Passinger ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: pages stained with print show-through and loss of print.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Calendar, Jewish.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:97937:1" rendition="simple:additions"/>
+            <p>THE <hi>JEWISH</hi> CALENDAR EXPLAINED; OR, OBSERVATIONS ON THE Ancient <hi>Hebrew</hi> Account, of the Year, Months, and Feſtivals uſed by the PATRIARCHS, and men<g ref="char:EOLhyphen"/>tioned in Holy Scripture. Wherein is ſhown the Order, Names, and Significations of their MONETHS.</p>
+            <p>The Reaſons for firſt Inſtituting their ſeve<g ref="char:EOLhyphen"/>ral Feaſts, as <hi>Paſſover, Tabernacles,</hi> &amp;c. With the exact days whereon they were Celebra<g ref="char:EOLhyphen"/>brated; and what they were to ſhadow forth under the <hi>Goſpel.</hi>
+            </p>
+            <p>
+               <hi>Publiſhed for aſſiſting weak Capacities better to un<g ref="char:EOLhyphen"/>derſtand what they read in</hi> Holy Writ, <hi>more than two hundred difficult places of which, are here ex<g ref="char:EOLhyphen"/>plained.</hi>
+            </p>
+            <p>By HEN. CARE.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>T. Paſſinger,</hi> at the the Bibles on <hi>London-Bridge.</hi> 1674.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:97937:2"/>
+            <pb facs="tcp:97937:2"/>
+            <head>To the worthily accompliſh<g ref="char:EOLhyphen"/>ed Mr. <hi>VVilliam Kiffiin</hi> of <hi>London,</hi> Merchant.</head>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>THe <hi>Holy Scriptures</hi> are the Souls <hi>Viaticum,</hi> the <hi>Manna</hi> whereby a Chriſtian militant is ſuſteined in his Pilgrimage to the ſuper-celeſtial <hi>Canaan,</hi> to muffle up thoſe <hi>Sacred O<g ref="char:EOLhyphen"/>racles</hi> from vulgar eyes, and apprehenſions has been, and ſtill is the contrivance of a ſelfe-deſigning Generation; but to explain them what he can, is the Duty, and will be the Glory of every wel-wiſher to <hi>Sion:</hi> It is confeſſedly true, the matters here treated of, are not abſolutely neceſſary, nothing eſſential to our grand buſineſs, <hi>Salvation:</hi> Every hand is not furniſht to bring gold and ſilver towards building the Sanctu<g ref="char:EOLhyphen"/>ary;
+<pb facs="tcp:97937:3"/>let this be be reckoned amongſt the Goat-skins, and meaner Furniture of the Tabernacle: Such as it is, permit me, though a <hi>Stranger,</hi> to ſhelter it under the <hi>Patronage</hi> of your Name, partly as not knowing how better to <hi>check ſome</hi> Immerited aſper<g ref="char:EOLhyphen"/>ſions, than by this publique teſtimony of my <hi>Reſpects,</hi> and partly as judging it moſt Congruous for a diſ<g ref="char:EOLhyphen"/>courſe of this Nature to addreſs it ſelf to <hi>one</hi> that has always endevoured to be acquainted with that moſt <hi>Advantagious kind</hi> of Learning The right underſtanding of the <hi>Sacred Text:</hi> The thing is but a Collection, and <hi>Faults</hi> and <hi>Errors</hi> are unhapi<g ref="char:EOLhyphen"/>ly become as conſtant Attendants of <hi>Humanity,</hi> as <hi>Shadows</hi> of <hi>Bodies,</hi> or <hi>Envy</hi> of <hi>Vertue;</hi> ſo that it is more then probable my ſelf may have committed <hi>ſome,</hi> and the Printer perhaps more <hi>Errataes;</hi> I Humbly refer it to your <hi>Judgement</hi> to <hi>diſtinguiſh,</hi> and to your goodneſs to <hi>pardon</hi> them, together with this <hi>Preſumption</hi> of</p>
+            <closer>
+               <signed>
+                  <hi>Your moſt reſpective Servant,</hi> Hen. Care.</signed>
+               <dateline>
+                  <date>
+                     <hi>Nov.</hi> 10. 1673.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:97937:3"/>
+            <head>THE <hi>Jewiſh</hi> Calendar Explained.</head>
+            <div n="1" type="chapter">
+               <head>CHAP. I. <hi>Of the meaſures of Time, Years, Months, and Days, in general: With an Eſſay for correcting the account of our common Kalendor.</hi>
+               </head>
+               <p>BEfore we come to treat of the Ancient <hi>Hebrew</hi> Year in particular, we con<g ref="char:EOLhyphen"/>ceive it may not be altogether imper<g ref="char:EOLhyphen"/>tinent to peruſe ſome brief conſider<g ref="char:EOLhyphen"/>ations concerning the Reaſon and Forms of Years in general.</p>
+               <p>Time is the duration of Created matter, which had the ſame Horoſcope or Beginning with the World, and continually running on, in a Circular motion, till the diſſolution of the Univerſe, ſhall then be ſwallowed up in the
+<pb n="2" facs="tcp:97937:4"/>Abiſs of Eternity. The moſt uſual, as well as moſt proper manner of dividing Time, is into Years, Months, Days, &amp;c. whereby all the grand actions that happen in the world: <hi>Viz.</hi> Their Beginnings, Progreſs Durations, and Intervals are meaſured and computed. A Year (generally ſpeaking) is a periodical Revolution, or a great Circle of Months and days, in which the four Seaſons, Spring, Summer, Autumn, and Win<g ref="char:EOLhyphen"/>ter are, after one Revolution of the Sun, or<g ref="char:EOLhyphen"/>dained to return in their courſes; whence the ancient <hi>Aegyptians</hi> before they had the uſe of Letters, were wont to repreſent and ſignifie it by the Hieroglophick of a Serpent or Snake biting her own Tail. But becauſe the ſpaces of time called Years, are diverſe with divers Nations, greater in ſome, and leſſer with o<g ref="char:EOLhyphen"/>thers, and all for good reaſons are to be reduced to the rule of the Celeſtial motions, by which the years are rightly and naturally meaſured; therefore muſt we divide them into Aſtronomi<g ref="char:EOLhyphen"/>cal and Political. The Aſtronomical Year is meaſured either according to the Periodical motion of the Sun, or the Conjunction of the Moon with the Sun; and is therefore twofold, <hi>Solar</hi> and <hi>Lunar.</hi> The <hi>Solar</hi> Year is that ſpace of time, in which the Sun, departing from one of the Tropical Equinoctial, or Solſticial points, and running through the whole Eclipt<g ref="char:EOLhyphen"/>ick,
+<pb n="3" facs="tcp:97937:4"/>returneth to the ſame point again. It is called Natural, becauſe it ſeems to be Deſti<g ref="char:EOLhyphen"/>nated by Nature for menſuration of Time, and containeth (according to the mean motion) three hundred ſixty five days, five hours, and forty nine minutes: And this is the true Rule, Level, or Standard of all Years.</p>
+               <p>The <hi>Lunar</hi> Year, is that ſpace, wherein the Moon, after ſome conjunctions with the Sun, meeteth and uniteth with him not far from the former place, and is either commune, contain<g ref="char:EOLhyphen"/>ing twelve Months or Synodical Lunations; or Emboliſmal, which contains thirteen: The firſt conſiſts only of three hundred fifty four days, eight hours, and forty eight minutes; the other of three hundred eighty three days, one and twenty hours, and two and thirty minutes.</p>
+               <p>The <hi>Political</hi> or Civil years be ſuch, as in ſe<g ref="char:EOLhyphen"/>veral Countries and Nations are uſed for Di<g ref="char:EOLhyphen"/>ſtinction of times, wherein reſpect is had, either to the motion of the Sun, or Moon only, or to them both together.</p>
+               <p>The <hi>Roman</hi> Year, according to <hi>Julius Caeſar</hi>'s Conſtitution, did conſiſt of three hundred ſixty five days, and ſix hours; which ſix odd hours, making in four Years a whole day, is then ad<g ref="char:EOLhyphen"/>ded, and makes that which we call <hi>Leap-Year,</hi> ſo named, becauſe by this interpoſition of a day at the 25th. of <hi>February,</hi> and repeating the
+<pb n="4" facs="tcp:97937:5"/>ſame Letter twice, the fixed Feſtivals or Holy<g ref="char:EOLhyphen"/>days, and the like, do as it were leap one day further into the week, than they were the for<g ref="char:EOLhyphen"/>mer Year.</p>
+               <p>Now ſince the mean Tropical Year does con<g ref="char:EOLhyphen"/>ſiſt (according to the <hi>Alphonſine</hi> Tables) of 365 days, 5 hours, 49 minutes and 16 ſeconds; it is evident this <hi>Julian</hi> Year exceeds it 10 minutes, and 44 ſeconds, which therefore muſt cauſe an apparent Anticipation of the Equinoctial and Solſticial points; inſomuch that the Vernal Equinox (whoſe place at the firſt councel of <hi>Nice,</hi> was on the 21 of <hi>March,</hi> is now come to be upon the 9th or 10th of that Month; for correcting which Error Pope <hi>Gregory</hi> the 13th. ordred 10 days to be ſubſtracted from the 4th. of <hi>October</hi> unto the 15th. thereof, excluſive in that Year, 1582. that ſo he might make the Vernal Equinoct (wherein the moveable Feaſts do depend) agree to the 21th. of <hi>March,</hi> as it was by the <hi>Nicen</hi> Counſel eſtabliſhed <hi>Anno</hi> 324, by means whereof all their Months begin ten days ſooner than ours, &amp;c. See <hi>Maginus</hi> his <hi>Secunda Mobilia fo.</hi> 40.</p>
+               <p>This is the Account now chiefly uſed in Forraign parts, throughout Chriſtendom; and though it be ten days truer than ours, yet it is not exact by two days, being reduced not to the Suns place at our Saviours Birth (but only to
+<pb n="5" facs="tcp:97937:5"/>the Counſel of <hi>Nice</hi>) whereas if Authority with us ſhould pleaſe to order that all Biſſextiles ſhould be omited for 52 Years, that alone would gradually, &amp; inſenſibly, without the leaſt inconveniency about the Dates of our civil Contracts, Bonds, Rents, &amp;c. bring us two days before the <hi>Gregorian,</hi> and a greable to the Suns place at the birth of our Saviour: But this we only mention, and ſubmit to the will of our Superiours and Sentiments of thoſe more learn<g ref="char:EOLhyphen"/>ed in <hi>Calculations Aſtronomical.</hi>
+               </p>
+               <p>The Months by which we meaſure the year <hi>(Menſes ſic dicti a metiendo ſeu menſurando)</hi> are likewiſe two fold, Aſtronomical and Political.</p>
+               <p>The Aſtronomical or Natural are conſidered according to the motion of the Sun and Moon, and therefore are either <hi>Solar</hi> or <hi>Lunar.</hi>
+               </p>
+               <p>The <hi>Solar</hi> are the ſpaces of time wherein the Sun runs through a twelfth part of the Zodiack, and (according to the mean or equal motion, which is the rule of all Solar Months) contains 30 days, 10 hours, and 29 minutes.</p>
+               <p>The <hi>Lunar</hi> months are three-fold, Periodical, Synodicol, and the month of Illumination.</p>
+               <p>The Synodical is the ſpace of Time from one New Moon to the next; which (according to the mean or equal motions, being the Rule and meaſure of all <hi>Lunar</hi> Months) is twenty nine days, twelve hours, and forty four minutes.</p>
+               <pb n="6" facs="tcp:97937:6"/>
+               <p> The Month of Illumination (or Apparition) is the ſpace of time ſpent or intercepted between the firſt day whereon the Moon is ſeen after her conjunction with the Sun, and the laſt day of her being viſible, which the vulgar reckon to be 28 days; but it is not always ſo, for ſome<g ref="char:EOLhyphen"/>times ſhe is ſeen ſooner, ſometimes later; and accordingly vaniſheth: (1.) As her Latitude is Northward or Southward: (2.) Or her motion ſwifter or ſlowor: (3.) Or as ſhe is poſited in Signs aſcending or deſcending, right or oblique.</p>
+               <p>Laſtly, the Political Months are civil, or uſu<g ref="char:EOLhyphen"/>al, whereby every Nation diſtributes the Year as they pleaſe; wherein, not only the Denomi<g ref="char:EOLhyphen"/>nation, but alſo the Length and Proportion of the Months differ, according to variety of Na<g ref="char:EOLhyphen"/>tions and People.</p>
+               <p>Thus the <hi>Aegyptians</hi> had 12 Months, each of them conſiſting of 30 days; and to the end of their laſt month, named <hi>Moſori,</hi> they ſuperadded 5 days more, making their whole Year conſiſt of 365 days.</p>
+               <p>The <hi>Romans</hi> (according to the ordination of <hi>Romulus,</hi> founder of their City) had at firſt but 10 Months in the Year, wherein they included 304 days. This the moſt ingenuous Pen of the unfortunate <hi>Ovid</hi> teſtifies in that diſtitch.</p>
+               <q>
+                  <l>
+                     <hi>Tempora Digereret cum Conditor <g ref="char:V">Ʋ</g>rbis, in Anno</hi>
+                  </l>
+                  <l>
+                     <hi>Conſtituit Menſes quinquebis eſſe ſuo:</hi>
+                  </l>
+                  <pb n="7" facs="tcp:97937:6"/>
+                  <l>
+                     <hi>Whilſt</hi> Romes <hi>firſt founder ſtudies times records,</hi>
+                  </l>
+                  <l>
+                     <hi>He to the Year only ten Months affords.</hi>
+                  </l>
+               </q>
+               <p>But his ſucceſſor <hi>Numa Pompilius</hi> perceiving this Year much too conciſe, added two other Months: <hi>viz. January</hi> and <hi>February:</hi> to which <hi>Julius Caeſar</hi> (who had ſtudyed the Mathematicks at <hi>Alexandria</hi>) finding it ſtill too ſhort by al<g ref="char:EOLhyphen"/>moſt 10 days, and 6 hours, for compleating the true <hi>Solar</hi> Year, by the help of <hi>Soſigenes</hi> the Mathematician (whom, after <hi>Pompeys</hi> over<g ref="char:EOLhyphen"/>throw he brought with him from <hi>Aegypt</hi> to <hi>Rome</hi>) added 10 days; as you may ſee in <hi>Macro<g ref="char:EOLhyphen"/>bius l.</hi> 1. <hi>Saturn cap.</hi> 14. whence that ancient <hi>Roman</hi> account came to be called the <hi>Julian,</hi> and their Months to be numbred as with us at this day.</p>
+               <lg>
+                  <l>
+                     <hi>Ter denos</hi> September <hi>habet, totidiem<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan>
+                     </hi> November,</l>
+                  <l>Julius, Aprilis, <hi>reliquis ſuper additer unus,</hi>
+                  </l>
+                  <l>
+                     <hi>Sit niſi Biſſextil viginti</hi> Februns <hi>octo.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Thirty days hath</hi> September,</l>
+                  <l>June, April, <hi>and</hi> November,</l>
+                  <l>
+                     <hi>The reſt with thirty one are fraight,</hi>
+                  </l>
+                  <l>
+                     <hi>But</hi> February <hi>twenty eight;</hi>
+                  </l>
+                  <l>
+                     <hi>Except when the Leap-Year doth come,</hi>
+                  </l>
+                  <l>
+                     <hi>Then nine and twenty is its ſum.</hi>
+                  </l>
+               </lg>
+               <pb n="8" facs="tcp:97937:7"/>
+               <p> The <hi>Arabians</hi> and <hi>Turks</hi> begin their Year <hi>ab Hegira Mahumetana,</hi> or flight of <hi>Mahomet,</hi> and commencing from their firſt month <hi>Muhar<g ref="char:EOLhyphen"/>tam,</hi> allow to one thirty days, to the next 29 days, and ſo by turns throughout the Year.</p>
+               <p>Thus we ſee, as the Holy Scripture teſtifies, the Offices of thoſe two great and glorious Luminaries of Heaven, the Sun and Moon, to be (amongſt other things) for Seaſons, and for days, and for Years, ſo even to this day amongſt all Nations in their accounts there is ſtill ſome reſpect had to their motions, they being as it were the two grand Clocks or Dyals of the Univerſe, the Suns revolution making a Year, and the Moons a month.</p>
+               <p>Let this therefore ſuffice to have been ſaid in general on that, wherein we gratefully ac<g ref="char:EOLhyphen"/>knowledge our weaker Pen to be much endebted to the Judicious obſervations of the moſt Loyal, Learned, and Ingenuous <hi>George Wharton</hi> Eſq;</p>
+               <p>
+                  <hi>Gratum &amp; Pium eſt agnoſcere per quos prefeceris;</hi>
+               </p>
+            </div>
+            <div n="2" type="chapter">
+               <pb n="9" facs="tcp:97937:7"/>
+               <head>CHAP. II. <hi>Of the time of the Worlds Creation, and Natural beginning of a Year, and how the Patriarchs did commence it.</hi>
+               </head>
+               <p>THat the World was Created by God at the Vernal Equinoxe, or beginning of the Spring is the concurrent opinion of almoſt all the Ancients, as well Aſtronomers as Eccleſi<g ref="char:EOLhyphen"/>aſtick Writers; whence it clearly follows in reaſon, that the true and natural commence<g ref="char:EOLhyphen"/>ment of the Year (the meaſure of parts of time) ought to be accounted from thence, or that in<g ref="char:EOLhyphen"/>ſtant, when time its ſelf received its being: and ſo we do not doubt the Patriarchs did account, for it's more then probable that <hi>Adam</hi> was en<g ref="char:EOLhyphen"/>dowed by God with an excellent knowledge of natural things, as well Celeſtial as Terreſtial, (for without the firſt he could not perfectly comprehend the laſt) and did underſtand the uſes and Offices of the Planets, as well as of Plants and Animals; and therefore could not but well perceive the reaſon and true account of the na<g ref="char:EOLhyphen"/>tural Year, and communicated it to his Poſte<g ref="char:EOLhyphen"/>rity, who obſerved it at leaſt till the confuſion of Languages, which is thought to have brought
+<pb n="10" facs="tcp:97937:8"/>no ſmall confuſion of Science upon man-kind, thereby diſperſt into ſeveral Regions: however the ancient form of the Year was retained for ſome time, eſpecially (as we have reaſon to ſup<g ref="char:EOLhyphen"/>poſe) in the Family of <hi>Heber</hi> (which God had deſigned for the repoſitaries of Truth) and we conceive not changed, till the time of their go<g ref="char:EOLhyphen"/>ing down into <hi>Aegypt,</hi> where after the death of the twelve Patriarchs, the Children of <hi>Iſrael</hi> might, and did begin to imitate the <hi>Aegyptians</hi> in their Account, who it is probable began their Year at the Autumnal Equinox, when the waters of the wonderful River <hi>Milus</hi> (to whoſe overflow that Country ows its fertility) were dryed up, and they began to return to their Husbandry: But at their deliverance from that <hi>Aegyptian</hi> thraldom, Almighty God at once, to put them in mind thereof, and of the Worlds Creation, commands them to reſume the old true account, and commence their Year from the Spring; for thus we find him ſpeaking to his Servant <hi>Moſes; This month</hi> (called then <hi>Abib, Exod.</hi> 34.18. Since <hi>Niſan) ſhall be</hi> (as our Tranſ<g ref="char:EOLhyphen"/>lation reads it) <hi>to you the firſt of months:</hi> From which words ſhall be, ſome have imagined, that God had then inſtituted a new form of be<g ref="char:EOLhyphen"/>ginning the Year, not known, or ever practiſed before; whereas indeed that Verb in the future Tenſe is not in the <hi>Hebrew</hi> Text, as may be ſeen
+<pb n="11" facs="tcp:97937:8"/>by the different character in our <hi>Engliſh</hi> Bibles, but <hi>Ibi Locum verbi ſubſtantivi</hi> eſt <hi>ſupplet proeno<g ref="char:EOLhyphen"/>men Ipſe ex proprietate Sermonis Hebraei,</hi> as the learned <hi>Sympſon</hi> obſerves: the Pronoun ſupplies the place of a Verb ſubſtantive of the preſent tenſe; and God therefore reduces the beginning of the <hi>Iſraelitiſh.</hi> Year to the firſt Spring month, becauſe the ſame was ſimply and naturally the the firſt month of the Year; however the com<g ref="char:EOLhyphen"/>mon people did ſtill in ſome caſes account their Year to begin from <hi>Tiſri</hi> or Harveſt (as the <hi>Aegyptians</hi> did) eſpecially Husbandmen, becauſe they then made an end of their Harveſt; and in this reſpect muſt thoſe two Texts, <hi>Exod.</hi> 23.16, and 34.22. be underſtood where the Feaſt of In-gathering their fruits or end of Harveſt cele<g ref="char:EOLhyphen"/>brated in the ſaid month <hi>Tiſri</hi>) is ſaid to be at the Years end, or at the Revolution of the Year.</p>
+               <p>It is true the Sabatical Years, and their Years of Jubile did commence then, and very properly, ſince from the end of Harveſt the Land was to reſt; and though it conſiſted of two civil Years, yet it was called only the ſeventh Year, taking the denomination from the more worthy part: <hi>Viz.</hi> That wherein they ceaſed from Husban<g ref="char:EOLhyphen"/>dry, releaſed their Servants, and forgave their Debts; ſo likewiſe we call it the five and twen<g ref="char:EOLhyphen"/>tieth Year of the Kings Raign, though that time include part of two of our Civil Years.</p>
+            </div>
+            <div n="3" type="chapter">
+               <pb n="12" facs="tcp:97937:9"/>
+               <head>CHAP. III. <hi>Of the true form of the ancient Hebrew year.</hi>
+               </head>
+               <p>THat the year in uſe amongſt the Ancient <hi>Iſraelites,</hi> did conſiſt of twelve civil months is evident from 1 <hi>Kings</hi> 4.7. and 1 <hi>Chron.</hi> 27. Where 'tis recorded that <hi>David</hi> and <hi>Solomon</hi> made twelve Captains &amp; Officers of the Royal Houſhold, one for each Month in the year.</p>
+               <p>Nor is it leſs plain, that in the days of the Patriarks, each month conſiſted of thirty days, from the Hiſtory of the Deluge, ſince there from the 17th. day of the ſecond month, to the ſeventeenth of the ſeventh month are reckoned up 150 days compleat, <hi>Gen.</hi> 7.11. and 24. Com<g ref="char:EOLhyphen"/>pared with the eight Chapter. V. 3. and 4.</p>
+               <p>Their year (ſays <hi>Lydiat</hi> in his learned Trea<g ref="char:EOLhyphen"/>tiſe, <hi>De variis anuorum formis</hi>) was partly a<g ref="char:EOLhyphen"/>dopted or ſuited to the courſe of the Sun, part<g ref="char:EOLhyphen"/>ly to the courſe of the Moon, and partly dif<g ref="char:EOLhyphen"/>ferent from either; yet ſo that it ſtill had re<g ref="char:EOLhyphen"/>ſpect to both: It regarding the Suns motion ſo far as to begin always about the Spring E<g ref="char:EOLhyphen"/>quinox, and the Moons, as to commence always about the Change; yet as to the diſtinct Lymits of each month, it ſeems ordered by civil cuſtom ſo as all of them (except one) had equal thirty
+<pb n="13" facs="tcp:97937:9"/>days a peice. But one to adjuſt or ſuit the Lunar or Solar year, was unequal; for ſince to make the year anſwer the Suns courſe, 'twas neceſſa<g ref="char:EOLhyphen"/>ry every year to allow this month five days a<g ref="char:EOLhyphen"/>bove thirty, yet it was often deprived not only of them, but five more, and then another year to make up theſe Arrears, had 22 or 23 Days more allowed it, two Lunar months by way of Intercalation, being made one civil one.</p>
+               <p>Thus <hi>Lilius Giraldus</hi> in his Book <hi>De Annis &amp; Menſibus affirmes, Hebraei Annum Duodecim men<g ref="char:EOLhyphen"/>ſibus Metiuntur, Verum Tertio quoque Anno Tre<g ref="char:EOLhyphen"/>decim Menſium conſtituunt, &amp;c.</hi> The Hebrews meaſure their years by twelve months, but e<g ref="char:EOLhyphen"/>very third year they make it conſiſt of thirteen months, and ſo by that Intercalation or Inſert<g ref="char:EOLhyphen"/>ing, keep their account even with the courſe of the Sun, which month ſo added they call <hi>Ve-Adar,</hi> or the ſecond <hi>Adar,</hi> ſee for this alſo, <hi>Munſters Calendorium Hebraicum,</hi> P. 62.</p>
+               <p>Thus on the whole matter we may ſee, that the antient <hi>Hebrews</hi> from their departure out of <hi>Aegypt,</hi> to the time of the <hi>Alex andrean Aera,</hi> (at leaſt) reguarded in their year both the Lu<g ref="char:EOLhyphen"/>minaries: for in that interval of time, they in<g ref="char:EOLhyphen"/>ſtituted the Ceremonies of the Temple accor<g ref="char:EOLhyphen"/>ding to Gods Command and the motion of the Moon: and although they retained ſomething of the priſtine <hi>Aegyptian</hi> form, ſo that their
+<pb n="14" facs="tcp:97937:10" rendition="simple:additions"/>year was as it were mixt, being partly Solar running back in ſome ſort to the Equinoxes and Solſtices, partly Lunar according to which their Ferioe or Feſtivities were directed, yet by little and little they anticipated the Equinoxes, until at length <hi>Alexander</hi> the great being dead, they (for ſome time at leaſt) received the <hi>Grecian</hi> year as may be rationally ſuppoſed by the book of the <hi>Macchabees.</hi>
+               </p>
+               <p>The modern <hi>Jews</hi> about the time of <hi>Conſt an<g ref="char:EOLhyphen"/>tine</hi> the great framed a pemliar Calender to themſelves by the Induſtry of <hi>Habbi Hillel,</hi> wherein they brought the Moons motion (which defineth the Feaſts) to agree preciſely enough with the Suns, ſo that the Equinoxes and Sol<g ref="char:EOLhyphen"/>ſtices could not eaſily be removed from their places.</p>
+            </div>
+            <div n="4" type="chapter">
+               <head>CHAP. IIII. <hi>Of the particular</hi> Hebrew <hi>months.</hi>
+               </head>
+               <p>AS for the particular names of months, 'tis apparent in the firſt Ages of the World, they were onely taken from their order, for rarely ſhall we meet in the Holy Scriptures be<g ref="char:EOLhyphen"/>fore the <hi>Babyloniſh</hi> Captivity, that they are called otherwiſe than by their number: as the ſecond month, the third month, &amp;c. Only the firſt month it ſeems in <hi>Moſes</hi> his time began to
+<pb n="15" facs="tcp:97937:10"/>be called <hi>Abib,</hi> the ſecond in the time of <hi>Solomon, Ziv,</hi> or <hi>Zif.</hi> As alſo the ſeventh was then cal<g ref="char:EOLhyphen"/>led <hi>Ethanim,</hi> and the 8th. <hi>Bull.</hi> But theſe are ſuppoſed to have been originally <hi>Tyrian.</hi> How<g ref="char:EOLhyphen"/>ever during the Captivity the <hi>Jews</hi> learnt <hi>Ba<g ref="char:EOLhyphen"/>byloniſh</hi> (or as ſome ſay) <hi>Aſſyrian</hi> names for their months, which they brought with them back into their Countrey, and uſed them as fol<g ref="char:EOLhyphen"/>lows.</p>
+               <p n="1">1. The firſt month was called <hi>Abib,</hi> which ſig<g ref="char:EOLhyphen"/>nifies a Green Ear; for then Barley in thoſe Eaſtern Countries began to be eared: It is alſo called <hi>Niſan</hi> a Banner, or flying, becauſe then <hi>Iſrael</hi> fled with Banners diſplay'd out of <hi>Egypt:</hi> it began at the new Moon next after the Spring Equinox: and ſo anſwers to the latter part of our <hi>March,</hi> and the firſt part of <hi>April;</hi> ſee <hi>Exod.</hi> 13.4. and 18, compared with <hi>Ch.</hi> 17. <hi>v.</hi> 15.</p>
+               <p n="2">2. The ſecond <hi>Ziv,</hi> which ſignifies Bright<g ref="char:EOLhyphen"/>neſſe, called from the <hi>Caldee Jiar</hi> ſignifieing to flouriſh: for that now Nature dreſſes all her productions in the Richeſt Liveries, and ren<g ref="char:EOLhyphen"/>ders Plants and Flowers amiable to the Eye; with variety of Birds and Bloſſoms: This An<g ref="char:EOLhyphen"/>ſwered to part of <hi>April,</hi> and part of <hi>May.</hi>
+               </p>
+               <p n="3">3. The third <hi>Sivan</hi> from <hi>Savah,</hi> a Veil or Hideing; becauſe Trees are now as it were veil'd with Beaves, and men, &amp; Cattle begin to
+<pb n="16" facs="tcp:97937:11"/>hide themſelves in ſhades from the too fervent kiſſes of the Sun, it contains part of <hi>May,</hi> and part of <hi>June.</hi>
+               </p>
+               <p>The fourth month was called <hi>Tamuz,</hi> but neither that nor the fifth are mentioned by their proper names in Scripture: The Word ſignifies Burnt up or conſumed, becauſe of the violent heat that happens uſually at the time, It con<g ref="char:EOLhyphen"/>taining part of our <hi>Iune,</hi> and part of <hi>Iuly.</hi>
+               </p>
+               <p n="5">5. The fifth called <hi>Abb,</hi> ſignifieing father, ſo termed as ſome think, becauſe <hi>Aron</hi> the Father of Prieſts Dyed the firſt Day of it: as appears, <hi>Numb.</hi> 33.38. This fell part in <hi>Iuly,</hi> part in <hi>Auguſt.</hi>
+               </p>
+               <p n="6">6. The Sixth <hi>Elul,</hi> ſignifies nought, becauſe the Reapers have now made bare the Ground and left nothing: It anſwered part of <hi>Auguſt,</hi> and part of <hi>September, Neh.</hi> 6.15.</p>
+               <p n="7">7. The ſeventh <hi>Tiſri</hi> from <hi>Thiroſch,</hi> which ſig<g ref="char:EOLhyphen"/>nifies ſweet Wines, for now they gathered in their Vintage called likewiſe <hi>Ethanim</hi> (ſtrengths) It happens part in <hi>September;</hi> part in <hi>October.</hi>
+               </p>
+               <p n="8">8. The eight <hi>Bull,</hi> 1 <hi>Kings</hi> 6.38. From <hi>Iebul</hi> (fruit) or rather from <hi>Mabbul</hi> (falling) for now is the fall of the Leaf, and ſtore of Rain, whence 'tis alſo called <hi>Marcheſhuan,</hi> ſignifiing the breaking out of waters: It anſwers part of <hi>October,</hi> and part of <hi>November.</hi>
+               </p>
+               <p n="9">
+                  <pb n="17" facs="tcp:97937:11"/> 9. The ninth <hi>Kiſtev, Zech.</hi> 7.1. From <hi>Koſil,</hi> which ſignifies the Conſtellation of <hi>Orion,</hi> which now ariſeth, or denotes Inconſtancy, as the wea<g ref="char:EOLhyphen"/>ther by means thereof is uſually about this time, being part of <hi>November,</hi> and part of <hi>De<g ref="char:EOLhyphen"/>cember.</hi>
+               </p>
+               <p n="10">10. The Tenth <hi>Tebeth, Eſther</hi> 2.16. Seems to be derived from <hi>Tobah</hi> (Good or Goodneſs, whence the names <hi>Tobit</hi> and <hi>Tobias</hi>) becauſe (ſay the Rabbies) Gods Goodneſs is moſt con<g ref="char:EOLhyphen"/>ſpicuous in the Winter of mans adverſity, It holds part of <hi>December,</hi> and part of <hi>Ianuary.</hi>
+               </p>
+               <p n="11">11. The Eleventh <hi>Schebat, Zech.</hi> 1.7. A Rod and alſo a Tribe, ſo called 'tis thought be<g ref="char:EOLhyphen"/>cauſe now <hi>Iſrael</hi> kept a faſt, becauſe a Tribe was (al moſt) cut off, ſee <hi>Iudges</hi> 21. <hi>v.</hi> 6. and 3. It falls part in <hi>Ianuary,</hi> part in <hi>February.</hi>
+               </p>
+               <p n="12">12. The Twelfth and laſt <hi>Adar, Eſther</hi> 3.7. Signifieing ſtrength or excelling, whether be<g ref="char:EOLhyphen"/>cauſe <hi>Moſes</hi> that excelling Governour dyed in it, <hi>Exod.</hi> 15.10. Or becauſe the Temple was then finiſhed, <hi>Exod.</hi> 6.15. It anſwers to part of <hi>February,</hi> and part of <hi>March,</hi> and ſo con<g ref="char:EOLhyphen"/>cludes the year: Thus as the Prince of Latine Poets ſings.
+<q>—<hi>In ſe ſua per Veſtigia Valvitur Annuus.</hi>
+                  </q>
+               </p>
+               <p>Yet note here that as near as they could
+<pb n="18" facs="tcp:97937:12"/>they made all their Months begin at the New Moon: as may be gathered from <hi>Numb.</hi> 10.10. (after the <hi>Septuagint</hi>) with <hi>Pſal.</hi> 81.3. <hi>Pſal.</hi> 104.19. <hi>Gen.</hi> 1.14. Which muſt be underſtood not at the true Conjunction as Aſtrologers reckon, but at the time of her firſt ap<g ref="char:EOLhyphen"/>pearing to their view after her Congreſs with the Sun.</p>
+            </div>
+            <div n="5" type="chapter">
+               <head>CHAP. V. <hi>The</hi> Jewiſh <hi>Sabbath, and Sabbatical year.</hi>
+               </head>
+               <p>THe Sabbath takes its name from the <hi>He<g ref="char:EOLhyphen"/>brew</hi> Sabbath, which ſignifies a day of reſt, or a time ſet apart for Holy Reſt: This Day God himſelf conſecrated to his Worſhip, be<g ref="char:EOLhyphen"/>cauſe he thereon reſted from his Work of Cre<g ref="char:EOLhyphen"/>ation.</p>
+               <p>It began, or was accounted amongſt the Jews, from Sun ſet the day before, and con<g ref="char:EOLhyphen"/>tinued till the next Sun-ſet, ſee <hi>Math.</hi> the 28. <hi>v.</hi> 1. Compared with <hi>Mark</hi> 16.1. and <hi>Iohn</hi> 20.1. But the preparation of the Sabbath men<g ref="char:EOLhyphen"/>tioned in <hi>Mark</hi> 15.42. began at three a Clock in the afternoon, before which they called the <hi>Sabbath-Eve,</hi> ſee <hi>Joſephus</hi> in his Antiquities, <hi>L.</hi> 16. <hi>Ca.</hi> 10.</p>
+               <p>The end of inſtituting the Sabbath we con<g ref="char:EOLhyphen"/>ceive may be threefold.</p>
+               <pb n="19" facs="tcp:97937:12"/>
+               <p> Firſt, Civil and Oeconomical for the eaſe &amp; refreſhment of mens bodies, whoſe ſtrength had been exhauſted otherwiſe by continual labour and toil: Six dayes ſhalt thou do all that thou haſt to do, but on the ſeventh day ſhalt Reſt, that thy Ox and thy Aſſe, and the Son of thy Bond woman, and the ſtranger, with thee may have reſt, <hi>Exod.</hi> the 23.</p>
+               <p>Secondly, <hi>Eccleſiaſtial,</hi> for the Worſhip of God in Publique, and Meditation upon his Di<g ref="char:EOLhyphen"/>vine Works.</p>
+               <p>Thirdly, Spiritual, and that twofold. 1. As being a Type of that ſpiritual reſt, whereby we ſhould ceaſe from the work of the World and the fleſh, that God might work in us by his Word and Spirit; not thinking our own thoughts, &amp;c. Secondly, As ſhaddowing unto us that endleſſe reſt, which all of us hope to en<g ref="char:EOLhyphen"/>joy in the World to come.</p>
+               <p>We read in Scripture of a Sabbath days jour<g ref="char:EOLhyphen"/>ney, why ſo called and how far it was, is appa<g ref="char:EOLhyphen"/>rent to every Capacity, we conceive it may be this: we find <hi>Ioſhua</hi> 3.4. That when the Chil<g ref="char:EOLhyphen"/>dren of <hi>Iſrael</hi> marched, the Ark of the Covenant was to be 2000 Cubits before them; and in all probability the ſame proportion was obſerved when they reſted, which diſtant ſpace of ground ſome interpret to be one Mile, others two: They meaſuring it by a Leſſer, theſe by a longer
+<pb n="20" facs="tcp:97937:13"/>Cubit; now on the Sabbath-day I apprehend it might be their uſe and order to repair all to the Ark being the place of Gods publique worſhip, which being 2000 Cubits as aforeſaid, from thoſe whoſe Tents were neareſt, ſuch a ſpace or diſtance became to be generally called and ac<g ref="char:EOLhyphen"/>counted a Sabbath-days Journey.</p>
+               <p>The Septennial Sabbath or Sabbathical year took begining from the tenth day of the ſe<g ref="char:EOLhyphen"/>venth month (or <hi>Tiſri</hi>) For as the Jews them<g ref="char:EOLhyphen"/>ſelves every ſeventh day: ſo their whole Land every ſeventh year kept a Sabbath, the obſerva<g ref="char:EOLhyphen"/>tion whereof principally did conſiſt in theſe two particulars.</p>
+               <list>
+                  <item>1. That the Grounds ſhould lye until'd.</item>
+                  <item>2. That all Debts ſhould be remitted and forgiven.</item>
+               </list>
+               <p>And therefore the ſacred Hiſtorian. <hi>Deut.</hi> 15. calleth this year the year of <hi>Shemita</hi> that is of Diſmiſſion, for that both Husbandry or Tillage and Debts were in this year commanded by God to be forborn and remitted, <hi>Exod.</hi> 23.</p>
+               <p>The cauſes of this feaſt were partly Civil, partly Myſtical.</p>
+               <p n="1">1. To teach them not by continual Exerciſe to ſuck out the earth and make it barren, be<g ref="char:EOLhyphen"/>cauſe as all other Creatures, ſo likewiſe the Earth (our Common Mother) has need of In<g ref="char:EOLhyphen"/>termiſſion and Reſt.</p>
+               <p n="2">
+                  <pb n="21" facs="tcp:97937:13"/> 2. To teach them gratitude and mercy,
+<list>
+                     <item>Gratitude to God for the fruits of the Earth.</item>
+                     <item>Mercy to the poor, of whom is had a prin<g ref="char:EOLhyphen"/>cipal regard in this Law.</item>
+                  </list>
+               </p>
+               <p n="3">3. To mind them of <hi>Adams</hi> firſt and bleſſed eſtate of Innocency wherein the earth volunta<g ref="char:EOLhyphen"/>rily without mans Labour or the conſtraint of Tillage, brought forth ſufficient for his plenti<g ref="char:EOLhyphen"/>ful ſuſtenance.</p>
+               <p>Laſtly to ſhaddow unto them that Eternal Sabbath, that is, that Bleſſed Life and King<g ref="char:EOLhyphen"/>dom prepared for the Saints: wherein all the Miſeries and Labours of the preſent, together with the Exactions of Creditors ſhall have an end, and the Sins of Believers be wholly remit<g ref="char:EOLhyphen"/>ted.</p>
+            </div>
+            <div n="6" type="chapter">
+               <head>CHAP. VI. <hi>The Feaſts of the paſsover, pentecoſt, and Tabernacles.</hi>
+               </head>
+               <p>THe feaſt of the paſſe-over is called <hi>Paſcha,</hi> from the <hi>Hebrew Peſach</hi> (others read it <hi>Phaſe</hi>) which ſignifies to leap over or paſſe by: For ſo the eternal verity makes out the Etymo<g ref="char:EOLhyphen"/>logy himſelf, <hi>Exod.</hi> 12.27. This was inſtitu<g ref="char:EOLhyphen"/>ted in the year of the Worlds Creation, 2447.
+<pb n="22" facs="tcp:97937:14"/>and celebrated yearly from the fifteenth of the firſt month <hi>Abib</hi> (called afterwards as we have ſaid <hi>Niſan</hi>) to the one and twentieth of the ſame incluſively that is for ſeven days together, yet ſo as that the firſt and laſt thereof, (<hi>Viz.</hi> the 15th. and 21) were held more ſacred and ob<g ref="char:EOLhyphen"/>ſerved with greater ſolemnity than the reſt, <hi>Lev.</hi> 23.5, 6. &amp;c.</p>
+               <p>Theſe ſeven days were likewiſe called the feaſt of unleavened Bread, and the firſt of them the paſſe-over, becauſe that thereon the <hi>Paſchal</hi> Lamb was eaten.</p>
+               <p>The ends of this Feſtival were.</p>
+               <p n="1">1. To put the <hi>Iſraelites</hi> in mind of, and as it were, conſecrate to Eternity Gods miraculous Deliverance of them out of their <hi>Aegyptian</hi> Bondange.</p>
+               <p n="2">2. For a ſure Teſtimony of his power, &amp; that perpetual Mercy he would ſhew his People.</p>
+               <p>Thirdly, and principally to Typifie Chriſt Jeſus, and our deliverance perfected by him? whence the Apoſtle ſays: <hi>Chriſt is our Paſsover,</hi> 1. <hi>Cor.</hi> 5. And therefore be pleaſed here to ob<g ref="char:EOLhyphen"/>ſerve the great Amalogy or agreement between the Type and the Antitype, the ſhaddow and ſubſtance in theſe thirteen particulars.</p>
+               <pb n="23" facs="tcp:97937:14"/>
+               <p> The Paſchal Lamb was
+<list>
+                     <item>1. <hi>One of the Flock.</hi>
+                     </item>
+                     <item>2. <hi>Without Blemiſh.</hi>
+                     </item>
+                     <item>3. <hi>To be Sacrificed and roaſted.</hi>
+                     </item>
+                     <item>4. <hi>His Bones not being broken.</hi>
+                     </item>
+                     <item>5. <hi>In or about the Even<g ref="char:EOLhyphen"/>ing.</hi>
+                     </item>
+                     <item>6. <hi>Their Door-poſts were be-ſprinkled with its Blood.</hi>
+                     </item>
+                     <item>7. <hi>That the puniſhing Angel might paſſe o<g ref="char:EOLhyphen"/>ver them.</hi>
+                     </item>
+                     <item>8. <hi>It was eaten in every Family.</hi>
+                     </item>
+                     <item>9. <hi>The whole Lamb.</hi>
+                     </item>
+                     <item>10. <hi>Without Leaven.</hi>
+                     </item>
+                     <item>11. <hi>With bitter Herbs.</hi>
+                     </item>
+                     <item>12. <hi>In haſt and as Tra<g ref="char:EOLhyphen"/>vellers.</hi>
+                     </item>
+                     <item>13. <hi>Only by the Circum<g ref="char:EOLhyphen"/>ciſed.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>Chriſt was
+<list>
+                     <item>1. <hi>Perfect Man,</hi> John 1.</item>
+                     <item>2. <hi>Without Sin.</hi>
+                     </item>
+                     <item>3. <hi>He ſuffered and dyed.</hi>
+                     </item>
+                     <item>4. <hi>They broke not his legs.</hi>
+                     </item>
+                     <item>5. <hi>In the end of the world, ſee</hi> Heb. 9.26.</item>
+                     <item>6. <hi>The Blood of Chriſt purgeth our Conſcien<g ref="char:EOLhyphen"/>ces, and is called blood of ſprinkling.</hi>
+                     </item>
+                     <item>7. <hi>That Sin and Death might not prevail a<g ref="char:EOLhyphen"/>againſt us.</hi>
+                     </item>
+                     <item>8. <hi>He muſt be particular<g ref="char:EOLhyphen"/>ly apply'd by faith.</hi>
+                     </item>
+                     <item>9. <hi>According to his whole Goſpel in all his offices.</hi>
+                     </item>
+                     <item>10. <hi>Without Hypocriſie,</hi> 1 Cor. 5.</item>
+                     <item>11. <hi>With patience under the Croſs.</hi>
+                     </item>
+                     <item>12. <hi>With an earneſt and longing Expectation of Salvation.</hi>
+                     </item>
+                     <item>13. <hi>Only by the faithful,</hi> 1 Cor. 11.</item>
+                  </list>
+               </p>
+               <pb n="24" facs="tcp:97937:15"/>
+               <p> The feaſt of <hi>Pentecoſt,</hi> is ſo called from the <hi>Greek</hi> Word <hi>Pentecoſte,</hi> but is termed in <hi>He<g ref="char:EOLhyphen"/>brew Schefuotht,</hi> that is, the feaſts of weeks, be<g ref="char:EOLhyphen"/>cauſe it was celebrated after the ſeventh week, (that is on the fiftieth day as the word in Greek ſignifies) after or from the former feaſt of paſs<g ref="char:EOLhyphen"/>over: as may be ſeen in ſeveral Texts: as <hi>Exod.</hi> 34. <hi>Lev.</hi> 23. <hi>Deut.</hi> 16, &amp;c.</p>
+               <p>But really and properly it ſignifies and is uſed for the fiftieth Solemn and Feſtival Day from the ſecond day of the feaſt of unleavened Bread: In which ſence St. <hi>Luke</hi> takes it, <hi>Acts</hi> the ſecond, when the day of <hi>Pentecoſt</hi> was fully come, and <hi>Chap.</hi> the 20th. ſpeaking of St. <hi>Paul.</hi> He haſten by all means that he might keep <hi>Pen<g ref="char:EOLhyphen"/>tecoſt</hi> at <hi>Hieruſalem.</hi> But in a larger ſence are meant by this word all thoſe fifty days, betwixt the ſecond day of the feaſt of unleavened Bread, and the ſaid fiftieth feſtival day (and ſo it ſeems the Author of the Vulgar Tranſlation) be it <hi>Jerome</hi> or who elſe) underſtood it, when he ren<g ref="char:EOLhyphen"/>dered that Text of the ſecond of the <hi>Acts,</hi> in the Plural number, <hi>Cum implerentur dies Pentecoſtes,</hi> when the days of <hi>Pentecoſts</hi> were fulfilled.</p>
+               <p>This Feaſt we may conceive was inſtituted for three reaſons.</p>
+               <p n="1">1. In memory of the Decalogue or Law gi<g ref="char:EOLhyphen"/>ven by God on Mount <hi>Sinai</hi> the fiftieth day af<g ref="char:EOLhyphen"/>ter the <hi>Iſraelites</hi> departed out of <hi>Aegypt.</hi>
+               </p>
+               <p n="2">
+                  <pb n="25" facs="tcp:97937:15"/> 2. That by the Ceremonial Oblation of two leaves then made of the new fruits to the Lord, men might be admoniſhed that they received all fruits and other things for preſervation of Life from the bountiful hands of Almighty provi<g ref="char:EOLhyphen"/>dence, and thence be excited to beſeech God not only for a Bleſſing thereupon, but likewiſe make a ſanctified uſe thereof.</p>
+               <p>Thirdly, to Typifie that <hi>Pentecoſt,</hi> wherein Chriſt after he had aſcended proclaimed the Law (not that of <hi>Sinai</hi> in Tables of ſtone, but) in the heart and mind, the Law of the new Co<g ref="char:EOLhyphen"/>venant that happy day on which the firſt fruits of the Holy Spirit were miraculouſly poured down on the Apoſtles, <hi>Acts</hi> the ſecond.</p>
+               <p>For we muſt note that this feaſt was alſo cal<g ref="char:EOLhyphen"/>led the feaſt of the firſt fruits from thoſe <hi>Pri<g ref="char:EOLhyphen"/>mitiae,</hi> or Bread offering, which was then made of the new fruits, <hi>Exod.</hi> 23. For theſe fifty days bounded their Harveſt, on the day after the paſſe-over. <hi>Viz.</hi> the 16. Of <hi>Abib</hi> or <hi>Niſan,</hi> they offered a ſheaf of the firſt fruits of their Harveſt, <hi>Lev.</hi> 23.30. On the fiftieth day they offered 2 wave Loaves as is commanded, <hi>Lev.</hi> 23.17.</p>
+               <p>Where obſerve the difference between their Harveſt and ours, occaſioned by the difference of Clymates and their Anticipation of time for both the <hi>Canaanites</hi> and <hi>Aegyptians</hi> begin their
+<pb n="26" facs="tcp:97937:16"/>Harveſt in <hi>April,</hi> and finiſh by the end of <hi>May,</hi> or half <hi>Iune:</hi> As <hi>Pliny</hi> (that great Clerk of Na<g ref="char:EOLhyphen"/>tures Cabinet) relates <hi>L.</hi> 18. <hi>Ca.</hi> 18. which <hi>Leo Africanus</hi> an Eye-witneſs of it, likewiſe confirms in his Deſcription of <hi>Afrique, L.</hi> 8. <hi>Ca.</hi> 4.</p>
+               <p>The feaſt of Tabernacles is called by the <hi>He<g ref="char:EOLhyphen"/>brews Chag Huſuks,</hi> &amp; celebrated from the fif<g ref="char:EOLhyphen"/>teenth of the month <hi>Tiſri</hi> to the one and twen<g ref="char:EOLhyphen"/>tieth thereof Incluſively, that is for ſeven days together, yet ſo as that the firſt day was more ſolemn and feſtivous than the reſt, as may be ſeen in <hi>Lev.</hi> 23. Where you likewiſe have the end of this feaſt expreſſed: that your Children may know that I made <hi>Iſrael</hi> to dwell in Tents when I brought them out of <hi>Aegypt.</hi>
+               </p>
+               <p>And accordingly during this Feaſt they dwelt in Booths made of Boughs of 4 diſtinct kinds, <hi>Lev.</hi> 23.40. Which are ſaid by the <hi>Rabbies</hi> to be, the <hi>Cytrine</hi> tree, the <hi>Palm</hi> tree, the <hi>Myrhe</hi> tree, and willow of the Brock, and he that did not bring a burthen of them in the morning was to faſt all day. This burthen they called <hi>Hoſanna:</hi> In alluſion to which the peo<g ref="char:EOLhyphen"/>ple cutting down Branches from Trees, and ſtrewing them in the way when our Savior did Ride into <hi>Ieruſalem:</hi> Cryed <hi>Hoſanna</hi> to the Son of <hi>David, Mat.</hi> 21.9. And indeed not only the Boughs, but the Days of this whole Feaſt of
+<pb n="27" facs="tcp:97937:16"/>Tabernacles were termed <hi>Hoſannath,</hi> and the 22th. of <hi>Tiſri</hi> a diſtinct feaſt by it ſelf: yet fol<g ref="char:EOLhyphen"/>lowing immediately after the feaſt of Taberna<g ref="char:EOLhyphen"/>cles was reckoned as belonging thereto, and called <hi>Hoſannah Rabbi,</hi> the great <hi>Hoſanna,</hi> or the great day of the feaſt as 'tis rendred, <hi>Iohn</hi> 7.37. See <hi>Tremelius</hi> on that Text: whereas truly and properly this 22. day of <hi>Tiſri</hi> was the feaſt of the Congregation or great and ſolemn Aſſem<g ref="char:EOLhyphen"/>bly called by the <hi>Hebrews Hadſiph,</hi> and alſo <hi>Azaereth;</hi> that is an Aſſembly, or Collection, or a Retention and Prohibition: Becauſe that when the feaſt of Tabernacles was expired, the people reſtrained it one day longer, or becauſe on that day they were prohibited doing any work, or from the Collection of fruits, for that on this day were offered the firſt of the la<g ref="char:EOLhyphen"/>ter fruits and thanks therefore given to God, or laſtly becauſe it ſhaddowed out a Collection of all Nations, or a gathering together of the Elect in the Kingdom of Heaven, of this feaſt you read, 1 <hi>Kings</hi> 8.10.</p>
+               <p>But obſerve that <hi>Ieroboam,</hi> who revolted from <hi>Reboam</hi> the Son of <hi>Solomon</hi> with the ten Tribes commanded the aforeſaid ſolemnity of Tabernacles (which God in his Law had com<g ref="char:EOLhyphen"/>manded to be celebrated in the ſeventh month <hi>Tiſri</hi>) to be kept in the eight month <hi>Marheſuan:</hi> that ſo in all things he might wean the Sons of
+<pb n="28" facs="tcp:97937:17"/>
+                  <hi>Iſrael</hi> from the Rites and Cuſtomes of their Fathers, as in 1 <hi>Kings</hi> 13.</p>
+            </div>
+            <div n="7" type="chapter">
+               <head>CHAP. VII. <hi>Of the Feaſts of Trumpets and Expiation.</hi>
+               </head>
+               <p>THe feaſt of Trumpets called by Hebrews <hi>Sichron theruah,</hi> for that on the firſt Day of <hi>Tiſri</hi> (their ſeventh Eccleſiaſtical but firſt po<g ref="char:EOLhyphen"/>litical month) the ſound of Trumpets or Cor<g ref="char:EOLhyphen"/>nets were every where heard, and this by the command of God, <hi>Lev.</hi> 33.</p>
+               <p>For the cauſe of this feaſt; ſome of the <hi>Iewiſh Rabbin</hi>'s do believe it was ordained in memory of <hi>Iſaac</hi>'s deliverance from being ſacrificed, and that God commanded a noiſe ſhould be then made by the trumpet (or Horn of a Ram) for that a Ram was caught by the Horn in a Buſh, and ſacrificed in his ſtead, <hi>Gen.</hi> 22. Others think it unlikely that ſo publique and ſolemn a feaſt ſhould be inſtituted for the deliverance of a ſingle perſon, but rather to Commemorate thoſe grievous Wars which the <hi>Iſraelites</hi> un<g ref="char:EOLhyphen"/>dertook, firſt againſt the <hi>Amalekites,</hi> and after<g ref="char:EOLhyphen"/>wards againſt Heathen, and to the end they might be admoniſhed that this humane Life of
+<pb n="29" facs="tcp:97937:17"/>ours is nothing but a continual warfare on earth, which laſt opinion ſeems moſt conſonant to Reaſon.</p>
+               <p>On the Tenth day of the ſame Month <hi>Tiſri</hi> (which you will find to be the moſt Feſtival Month in the Year) was celebrated the Feaſt of the Expiation, as you may read it commanded. <hi>Lev.</hi> 16. when both Prieſt and People afflicted their ſouls before the Lord by faſting; whence 'twas called, <hi>Dies Dejunij,</hi> The Day of Faſting, <hi>Jer.</hi> 36.6. and may ſo help to interpret that in <hi>Acts</hi> 27.9. Sailing was now a days dangerous, becauſe the Faſt was already paſt; that is this Feaſt of Expiation, when Winter grew on, it anſwering to our <hi>September.</hi>
+               </p>
+               <p>In this Annual Solemnity, an Univerſal Ex<g ref="char:EOLhyphen"/>piatory or Propitiatory Sacrifice was perform<g ref="char:EOLhyphen"/>ed for the ſins of the People: The <hi>Iews</hi> ſay it was inſtituted in memory of Gods favour to them, in forgiving their ſin of Idolatry committed by the making of the Calf in the Deſart.</p>
+               <p>But indeed the whole Paſſion and fruits of our Saviours Death, were hereby ſhadowed out to the life to the whole Church; the High-Prieſt in the matter of the Scape-Goat, &amp;c. being a moſt evident Type of Chriſt: Obſerve the Parrallel.</p>
+               <pb n="30" facs="tcp:97937:18"/>
+               <p>
+                  <table>
+                     <row>
+                        <cell role="label">Aron.</cell>
+                        <cell role="label">Chriſt.</cell>
+                     </row>
+                     <row>
+                        <cell>1. <hi>The High-Prieſt went into the Holieſt of all,</hi> Lev. 16.3.</cell>
+                        <cell>1. <hi>Chriſt our High-Prieſt went into the Holy-Place; that is to ſay, the Heavens,</hi> Heb. 9.12.</cell>
+                     </row>
+                     <row>
+                        <cell>2. <hi>He went once a year,</hi> Exod. 30.10.</cell>
+                        <cell>2. <hi>He entred once for all,</hi> Heb. 9.12.</cell>
+                     </row>
+                     <row>
+                        <cell>3. <hi>He with the blood of Goats, &amp;c.</hi>
+                        </cell>
+                        <cell>3. <hi>He by his own blood,</hi> Ibidem.</cell>
+                     </row>
+                     <row>
+                        <cell>4. <hi>Only he</hi>
+                        </cell>
+                        <cell>4. <hi>He alone hath trod<g ref="char:EOLhyphen"/>den the Wine-preſs,</hi> Iſaiah 63.3.</cell>
+                     </row>
+                     <row>
+                        <cell>5. <hi>He cloathed with his Prieſtly Robes,</hi> Lev. 16.4.</cell>
+                        <cell>5. <hi>He ſealed to this Office by his Father.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>6. <hi>He took two Goats.</hi>
+                        </cell>
+                        <cell>6. <hi>He took two Natures, the impoſſibility of his God-head, ſhadowed by the Scape-Goat; the ſufferings of his manhood by that which was Sacrifi<g ref="char:EOLhyphen"/>ced.</hi>
+                        </cell>
+                     </row>
+                     <pb n="31" facs="tcp:97937:18"/>
+                     <row>
+                        <cell>Laſtly, <hi>The Goat was to bear the Peoples iniquities.</hi>
+                        </cell>
+                        <cell>Laſtly, <hi>The Lord hath laid on him the ini<g ref="char:EOLhyphen"/>quities of us all,</hi> Iſa. 63.</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div n="8" type="chapter">
+               <head>CHAP. VIII. <hi>Of their New-Moons, and Year of Jubile.</hi>
+               </head>
+               <p>THe <hi>Neomeniae,</hi> or Feaſts of New-Moons were celebrated the firſt day of every Month, initiating with the New-moon (as we ſaid before) wherein are obſervable theſe ſolem<g ref="char:EOLhyphen"/>nities.</p>
+               <p n="1">1. They then repaired to the Prophets for hearing the Word as they did on the Sabaths, whence that ſaying 2 <hi>Kings</hi> 4.23. <hi>It is neither New-moon nor Sabath-day.</hi>
+               </p>
+               <p n="2">2. It was then unlawful to buy or ſell, as ap<g ref="char:EOLhyphen"/>pears by that of <hi>Amos</hi> 5.8. <hi>When will the New<g ref="char:EOLhyphen"/>moon be gone, that we may ſell Corn:</hi> But whereas at other <hi>New-moons</hi> they blew no trumpets, yet at the New-moon of <hi>Tiſri</hi> (called the Feaſt of Trumpets before mentioned) they blew Trumpets all day long, whence we learn what New-moon
+<pb n="32" facs="tcp:97937:19"/>
+                  <hi>David</hi> means, <hi>Pſal.</hi> 81.3. Blow the Trumpet in the time appointed at our Feaſt Day.</p>
+               <p>The reaſon for inſtituting this Feſtival of New-moons is ſuppoſed to be in memory of the light created by God, to the end.</p>
+               <p n="1">1. That by this means his people might be aleinated from the Superſtitions and Idolatries of the Heathen, (who ſubjected the months to to the Planets Stars, and Signs Celeſtial) and know that God is the only Lord, Moderator, and Governor of the Stars, and Signs them<g ref="char:EOLhyphen"/>ſelves, and conſequently of the months, and years, and time in general; and therefore pay into God the greater thanks, who ordained all theſe things for the uſe and benefit of man<g ref="char:EOLhyphen"/>kind.</p>
+               <p n="2">2. To Typifie man's Renovation, by the Illu<g ref="char:EOLhyphen"/>mination of the Holy Spirit, which is required of all the Faithful.</p>
+               <p>The Year of <hi>Jubile</hi> was an extraordinary Feaſt inſtituted by God, <hi>Lev.</hi> 25. Celebrated every fiftieth Year: ſo ſaith the Text; <hi>Thou ſhalt number to thy ſelf ſeven weeks of Years:</hi> That is to ſay, ſeven times ſeven, which makes 49 Years, therefore the Year next following this was the fiftieth, and wholly Sabatical, whence
+<pb n="33" facs="tcp:97937:19"/>(if you count excluſively to another Year of <hi>Jubile</hi>) you have only 49 Year; and ſo it is num<g ref="char:EOLhyphen"/>bred in the 8 <hi>verſe</hi> of the laſt cited Chapter, but if concluſively, that is, if you account both the former and latter, you have fifty; and ſo it is reckoned in the 10 <hi>verſe</hi> of the ſame Chapter, which manner of Account is moſt uſed: Thus we may ſay, a week has eight days, counting both the Sundays, but one of them excluded, there remains but a true week, or a ſennight.</p>
+               <p>The Word <hi>Jubile</hi> denotes Rejoycing or Re<g ref="char:EOLhyphen"/>miſſion, and was very proper in both ſignifica<g ref="char:EOLhyphen"/>tions; for in this Year, not only the Bond-men of <hi>Iſrael</hi> were by God's command ſet free from their Maſters, and the priſon doors thrown open, but all debts were not likewiſe remitted and forgiven, and mortgaged Grounds, Vineyards, Houſes, and other Poſſeſſions returned to their firſt owners; ſo that there no man could make over, or convey to another an abſolute Fee<g ref="char:EOLhyphen"/>ſimple of his inheritance (as our common Law<g ref="char:EOLhyphen"/>yers ſpeak) but only the uſe and profits thereof till the Year of <hi>Jubile:</hi> ſee it largely expreſt, <hi>Lev.</hi> 25.</p>
+               <p>The end of this great Feſtival was partly Civil, partly myſtical: For,</p>
+               <p n="1">
+                  <pb n="34" facs="tcp:97937:20"/> 1. God ſo ordained things, that the Fami<g ref="char:EOLhyphen"/>lies of the <hi>Iſraelites</hi> ſhould not be deſtroyed, but more eſpecially that Family out of which the <hi>Meſſiah</hi> was to come.</p>
+               <p n="2">2. The ſhew to us what a ſpecial regard he hath of the poor, to put them in hope of a better condition for the future, and lay down a way to Brotherly Communion, as far as the condition of this life would permit.</p>
+               <p n="3">3. That as the <hi>Olympiads</hi> were in uſe amongſt the <hi>Greeks,</hi> the <hi>Luſtra</hi> amongſt the Ancient (but the Indictions amongſt the latter) <hi>Romans</hi> where<g ref="char:EOLhyphen"/>by they ſupputated time, ſo the <hi>Hebrews</hi> ſhould be accuſtomed to number their times by <hi>Jubiles,</hi> ſoon as poſſeſſed of the Holy Land.</p>
+               <p>
+                  <hi>Laſtly,</hi> And principally to ſhadow unto them by this publique Jubile and ſolemn Joy the Lord Jeſus, and the whole buſineſs of their Sal<g ref="char:EOLhyphen"/>vation, which alludes to ſaying, <hi>I am that ac<g ref="char:EOLhyphen"/>ceptable time, now is the day of Salvation</hi> L.</p>
+            </div>
+            <div n="9" type="chapter">
+               <head>CHAP. IX. <hi>Of ſome other Feſtivals of the</hi> Jews, <hi>inſtituted by Humane Authority; and alſo how they counted and divided their days and hours.</hi>
+               </head>
+               <p>BEſides the ſeveral Feaſts before treated of inſtituted immediately by Divine Authori<g ref="char:EOLhyphen"/>ty
+<pb n="35" facs="tcp:97937:20"/>and Command, there were ſeveral other So<g ref="char:EOLhyphen"/>lemnities inſtituted by men, and received of the Church to commemorate ſome remarkable dealings of Providence: As,</p>
+               <p n="1">1. The four Solemn Faſting days mentioned by the Prophet, <hi>Zach.</hi> 8.</p>
+               <p>The firſt of which is, the Faſt of <hi>Jeruſalem</hi> beſieged, celebrated the 10th. day of the 10th. Month <hi>Thebeth,</hi> on which day <hi>Nebuchadnezar</hi> firſt pitched his Tents before <hi>Jeruſalem,</hi> to be<g ref="char:EOLhyphen"/>ſiege it, 2 <hi>Kings</hi> 25.</p>
+               <p>The Second, The Faſt of <hi>Ieruſalem</hi> taken by <hi>Nebuchodonozar,</hi> obſerved the 9th. of the 4th. Month <hi>Tamuz.</hi>
+               </p>
+               <p>The third, The Faſt of the City Deſolate celebrated the 9th. of the 5th. Month <hi>Ab,</hi> be<g ref="char:EOLhyphen"/>cauſe on that day the City and Temple were twice ſet on fire; firſt by <hi>Nebuchodonozor,</hi> and after that by <hi>Titus.</hi>
+               </p>
+               <p>The laſt, The Faſt of <hi>Godolia,</hi> or <hi>Gedalia,</hi> who was left in <hi>Iudea</hi> by <hi>Nebuzarda,</hi> and ſlain by the Treachery of <hi>Iſmael</hi> celebrated the third day of the 7th. Month <hi>Tiſri.</hi>
+               </p>
+               <p>To theſe four Faſts after the Captivity they added the ſolemn Faſt of Queen <hi>Heſter</hi> in me<g ref="char:EOLhyphen"/>mory of the three days Faſt which ſhe command<g ref="char:EOLhyphen"/>ed when about to apply her ſelf to King <hi>Aſue<g ref="char:EOLhyphen"/>rus</hi>
+                  <pb n="36" facs="tcp:97937:21"/>on behalf of the <hi>Iews, Heſter</hi> 4. This was celebrated the third day of the 12th. Month <hi>Ader,</hi> which afterwards became more famous for the ſignal Victory of <hi>Iudas Machabeus,</hi> who on this day overthrew <hi>Antiochus</hi> his Army, with <hi>Nicanor</hi> the Captain of it; ſee 2 <hi>Mach. Chapter</hi> laſt.</p>
+               <p n="2">2. The Days of Purim, or the Feaſt of Lots, ſo called, becauſe <hi>Haman</hi> had caſt the life and death as it were of the <hi>Iews</hi> upon the hazard of a Lot, and celebrated in memory of God's Protection, and their deliverance, the 14th. and 15th. days of the laſt Month <hi>Adar.</hi>
+               </p>
+               <p>There was likewiſe the Feaſt of Comportion, or bringing of Wood (mentioned by <hi>Ioſephus, l.</hi> 2. <hi>cap.</hi> 17.) kept in the month <hi>Ab,</hi> in memory of the wood brought for perpetual nouriſh<g ref="char:EOLhyphen"/>ment of the Holy Temple of <hi>Ieruſalem</hi> accord<g ref="char:EOLhyphen"/>ing to God's Law, <hi>Neh.</hi> 10.</p>
+               <p>The Feaſt of Dedication of the Temple af<g ref="char:EOLhyphen"/>ter <hi>Antiochus Epiphanes</hi> had prophained it; Read 1 <hi>Mach.</hi> 1. this was celebrated eight days together, beginning from the 25th. of the Month <hi>Ciller,</hi> 1 <hi>Mach.</hi> 4. and is mentioned by St. <hi>Iohn</hi> the Evangeliſt, and at which he writes our Sa<g ref="char:EOLhyphen"/>viour himſelf was preſent.</p>
+               <pb n="37" facs="tcp:97937:21"/>
+               <p> Theſe are the Feaſts and Solemnities cele<g ref="char:EOLhyphen"/>brated by the Ancient <hi>Iews,</hi> where of mention is made in Scripture, for others inſtituted after their Deſtruction and Repudiation, and ob<g ref="char:EOLhyphen"/>ſerved at this day by the modern <hi>Iews</hi> as the Feaſt of the New-Year: the Feaſt of Reconciliation, the Feaſt of Gladneſs or Joy of the Equinoxes and Solſticies, &amp;c. there be<g ref="char:EOLhyphen"/>ing no foot-ſteps of them in the Old Teſtament, I wilfully omit them.</p>
+               <p>Only obſerve here, that the Ancient <hi>Iews</hi> on their great Feſtivals (or Holy-day) Eves, which they termed Days of Preparation, held it unlawful for their Judges to ſit on Life and Death: Hence it is they would not go into the Common-Hall themſelves, leſt they ſhould be defiled, <hi>Iohn</hi> 18.28. And for that reaſon alſo they brought Jeſus to <hi>Pilate</hi> the <hi>Roman</hi> Deputy, and ſaid; <hi>It is not lawful for us to put any man to death,</hi> at the 31 <hi>verſe.</hi> That is, upon this, or ſuch a like day: for though their great Court of <hi>Sanedrim</hi> were now put down, yet all power in caſes of Life and Death was not taken from them, as 'tis implyed in the 32 <hi>verſe:</hi> which intimates that that unlawfulneſs was urged by the ſpe<g ref="char:EOLhyphen"/>cial Providence of God, that he might be Crucified, being Judged by the <hi>Romans;</hi> for if the <hi>Iews</hi> had been his Judges, they uſed
+<pb n="38" facs="tcp:97937:22"/>no ſuch kind of Death for any Perſons con<g ref="char:EOLhyphen"/>condemned. Again, <hi>Stephen</hi> was after this condemned by them to be ſtoned, <hi>Acts</hi> 7. And they complained before <hi>Felix,</hi> that when they were about to proceed againſt <hi>Paul,</hi> accord<g ref="char:EOLhyphen"/>ing to their: own Law, the chief Captain <hi>Lyſias</hi> with violence took him out of their hands: all which argues that they were not abſolutely deprived of power in Caſes Ca<g ref="char:EOLhyphen"/>pital.</p>
+               <p>We ſhall only add a word or two concern<g ref="char:EOLhyphen"/>ing days and hours as they accounted them, and therewith conclude.</p>
+               <p>Their Day was twofold: Natural, com<g ref="char:EOLhyphen"/>prehending Day and Night, and conſiſting of 24 hours: or Artificial, beginning at Sun-riſing, and ending at Sun-ſet; of which is that in <hi>Iohn</hi> 11.19. <hi>Are there not twelve hours in the day?</hi>
+               </p>
+               <p>Their Day Natural was likewiſe twofold, Civil, a working Day deſigned for ordinary buſineſs; which began at <hi>Sun-riſing,</hi> and held till the next <hi>Sun-riſing:</hi> Or <hi>Sacred,</hi> a Feſti<g ref="char:EOLhyphen"/>val Day, dedicated to Holy Duties, begin<g ref="char:EOLhyphen"/>ing at Sun-ſet, and continuing till the next Sun-ſet; ſee <hi>Mat.</hi> 28.1. Compared with <hi>Mark</hi> 16. and <hi>Iohn</hi> 20.1.</p>
+               <pb n="39" facs="tcp:97937:22"/>
+               <p> Note that if any of theſe feſtival days hap<g ref="char:EOLhyphen"/>pened to fall on a Sabhath day: that was called <hi>Sabbathum Magnum,</hi> a great Sabbath (or as our tranſlation reads it) a high day, <hi>Io.</hi> 19.3. For on that Sabbath day of which St. <hi>Iohn</hi> there ſpeaks, the Feaſt of the Paſsover fell that year.</p>
+               <p>The Night they diſtinguiſht into four Quar<g ref="char:EOLhyphen"/>ters, or greater hours, which they called Watches: containing each three leſſer or com<g ref="char:EOLhyphen"/>mon hours apeice.</p>
+               <p>The firſt they called <hi>Caput Vigiliarum,</hi> the firſt watch, <hi>Lam.</hi> 2.19. The ſecond the middle watch <hi>Judges</hi> 7.10. (Not becauſe there were but three, but) becauſe it continued till mid-night. The third till three in the morning: If he come in the ſecond or third Watch, <hi>Luke</hi> 12.38. The laſt called the Evening Watch, <hi>Exod.</hi> 12.24. continued till ſix in the Evening, ſee <hi>Mat.</hi> 14.25.</p>
+               <p>The firſt was alſo called the Even, the ſecond midnight, the third Cockcrowing, &amp; the fourth the Dawnings: all which are expreſt, <hi>Mark</hi> 13.35.</p>
+               <pb n="40" facs="tcp:97937:23"/>
+               <p> In like manner was their day divided as ap<g ref="char:EOLhyphen"/>pears by the parable of the Labourers <hi>Mat.</hi> 20. The firſt from ſix a Clock in the morning till nine was called the third hour, the ſecond end<g ref="char:EOLhyphen"/>ing at twelve the ſixth hour, the third at three in the afternoon, the ninth hour, and the fourth ending at ſix at night, was called the eleventh hour.</p>
+               <p>Where note, that the three firſt Quarters take their names from that hour of the Day, which cloſed the Quarter (for they began to count their leſſer hours from ſix a clock in the morning, and ſo
+<list>
+                     <item>Our 6 7 8 9 10. 11. 12. 1. 2. 3. 4. 5. 6</item>
+                     <item>Was their 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12</item>
+                  </list>
+               </p>
+               <p>Only the laſt great hour or quarter: Is cal<g ref="char:EOLhyphen"/>led by our Saviour the eleventh hour, whereas amongſt the Common people: It was, or ſhould by proportion with the reſt have been called the twelfth hour: But it may be Chriſt might rather mention the eleventh: To ſhew us that although God in his mercy accept Labourers
+<pb n="41" facs="tcp:97937:23"/>eleven hours in the day, yet he rarely calls any at the twelfth, for that is an hour rather to Diſcharge Servants, than to admit new ones.</p>
+               <p>Thus have we, we hope, by this brief Col<g ref="char:EOLhyphen"/>lection given the inquiſitive Reader ſome glim<g ref="char:EOLhyphen"/>mering Light (though not full ſatisfaction) in theſe obſcure walks of ſacred Antiquity.</p>
+               <p>What remains but that we wind up this diſ<g ref="char:EOLhyphen"/>courſe of Years, Months, and Days, &amp;c. With ſome Moral or Theological Reflections on the worth and uſe of time: As there is nothing can more further us towards happineſſe, than that being rightly improved ſo there is nothing we ſhall more bewail than the unprofitable waſting it, what would, or rather what would not a dying ſinner give for a few moments to make his peace with Heaven: though we can<g ref="char:EOLhyphen"/>not recall time miſpent, there is a way, and the Apoſtle charges us to make uſe of it to Re<g ref="char:EOLhyphen"/>dcem the time: Not unworthy obſervation is the Moto of a Sundial in that noble Monument of Charity: The <hi>Charter-houſe, Teners non Potes, Potes non Perdere:</hi> Though we cannot ſhop times motion, yet it lies in our power, not to trifle it away: But, alas! how few conſider the true worth of this Jewel, wherewith ſome in<g ref="char:EOLhyphen"/>conſiderates, think themſelves ſo overſtockt,
+<pb n="42" facs="tcp:97937:24"/>that they are forc'd to Invent a thouſand Va<g ref="char:EOLhyphen"/>nities to paſs away the time (as they call it) ne<g ref="char:EOLhyphen"/>ver regarding how ſoon their time (at leaſt) will be no more, but they with horror ſhall be launch'd out into the Ocean of a Wretched E<g ref="char:EOLhyphen"/>ternity, It was too great a truth of moſt men, which I ſaw once ingraved on the Blade of a <hi>Dutch</hi> Ladies Knife.</p>
+               <q>
+                  <l>
+                     <hi>Omnia Si repetas Humanae Tempora Vitae,</hi>
+                  </l>
+                  <l>
+                     <hi>Vel male, vel Temere, vel nihil Egit Homo.</hi>
+                  </l>
+               </q>
+               <p>Which at her Requeſt was Extempore turn<g ref="char:EOLhyphen"/>ed into this dull Engliſh.</p>
+               <q>
+                  <l>
+                     <hi>Survey mans Life, view all his boaſted Facts,</hi>
+                  </l>
+                  <l>
+                     <hi>Things ill, or vain, or nought at all, he Acts.</hi>
+                  </l>
+               </q>
+               <p>To conclude, ſince time is ſo ſwift of foot, and that in all his meaſures of years, months, and days, we can never at once be maſters of above one moment (for what's paſt is Irrevoca<g ref="char:EOLhyphen"/>ble, that which is to come Incertain) Let this warn us to live every day, as if it were (as we cannot know but it may prove) our laſt: that
+<pb n="43" facs="tcp:97937:24"/>ſo when we arrive at the end of our days, we may attain the end of our Hope: <hi>Viz.</hi> The Sla<g ref="char:EOLhyphen"/>vation of our Immortal Souls, through the Meritorious paſſion of the ever Bleſſed Jeſus: <hi>Amen.</hi>
+               </p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
